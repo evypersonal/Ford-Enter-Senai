@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(0, 0, 0, 0.5);
+}
+
+#txt1{
+    text-align: justify;
+    margin: 50px 100px 50px 500px;
+}
+
+.img1{
+    margin: -600px 500px -10px 50px;
+    width: 400px;
+}
+
+#txt2{
+    text-align: justify;
+    margin: 50px 500px 50px 100px;
+}
+
+.img2{
+    margin: -600px 50px 80px 800px;
+    width: 400px;
+}
+
+#txt3{
+    text-align: justify;
+    margin: 50px 100px 50px 100px;
+}
+
+.img3{
+    margin: 30px 70px 50px 120px;
+    width: 1000px;
+}
